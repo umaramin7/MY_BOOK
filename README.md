@@ -15,11 +15,7 @@ An **animated book loading page** with a beautiful gradient background, heart an
 ---
 
 ## 🚀 Live Demo  
-🔗 **[Click here](#)** (Update with GitHub Pages link after deployment)
-
----
-
- 
+🔗 **[https://umaramin7.github.io/MY_BOOK/](#)** 
 
 
 ---
