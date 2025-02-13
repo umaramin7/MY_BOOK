@@ -19,9 +19,8 @@ An **animated book loading page** with a beautiful gradient background, heart an
 
 ---
 
-## 📷 Preview  
-![3.jpg](#)  
-*(Add a screenshot here once hosted!)*  
+ 
+
 
 ---
 
