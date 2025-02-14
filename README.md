@@ -10,7 +10,7 @@ An **animated book loading page** with a beautiful gradient background, heart an
 ✅ **Floating heart emojis** effect  
 ✅ **Glassmorphism UI** for a soft, dreamy look  
 ✅ **Fully responsive** for all devices  
-✅ **Next button** to navigate to another page  
+✅ **Next button** to navigate to another pages  
 
 ---
 
