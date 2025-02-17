@@ -8,7 +8,7 @@ An **animated book loading page** with a beautiful gradient background, heart an
 ✅ Elegant **gradient background**  
 ✅ **Smooth progress bar** animation  
 ✅ **Floating heart emojis** effect  
-✅ **Glassmorphism UI** for a soft, dreamy look  
+✅ **Glassmorphism UI** for a soft, dreamy looks  
 ✅ **Fully responsive** for all devices  
 ✅ **Next button** to navigate to another pages  
 
